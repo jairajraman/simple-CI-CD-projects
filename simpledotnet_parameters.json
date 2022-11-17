@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_simpledotnet_qa_name": {
+            "value": null
+        },
+        "sites_simpledotnet_dev_name": {
+            "value": null
+        },
+        "sites_simpledotnet_prod_name": {
+            "value": null
+        },
+        "serverfarms_ASP_simpledotnet_a289_name": {
+            "value": null
+        }
+    }
+}
