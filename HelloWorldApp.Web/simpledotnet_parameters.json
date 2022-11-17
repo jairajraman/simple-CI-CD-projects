@@ -3,16 +3,20 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sites_simpledotnet_qa_name": {
-            "value": null
+            "defaultvalue": "simpledotnet-qa",
+            "type": "String"
         },
         "sites_simpledotnet_dev_name": {
-            "value": null
+            "defaultvalue": "simpledotnet-dev",
+            "type": "String"
         },
         "sites_simpledotnet_prod_name": {
-            "value": null
+            "defaultvalue": "simpledotnet-prod",
+            "type": "String"
         },
         "serverfarms_ASP_simpledotnet_a289_name": {
-            "value": null
+            "defaultValue": "ASP-simpledotnet-a289",
+            "type": "String"
         }
     }
 }
